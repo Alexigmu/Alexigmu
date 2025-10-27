@@ -33,7 +33,5 @@ Este proyecto me está sirviendo para aprender a trabajar en un entorno real: in
 
 * [Linkedin](www.linkedin.com/in/alexandre-iglesias-muñoz-648384127)
 
-* Email: *alexandre.iglesiasm@hotmail.com*
-
-Gracias por pasarte por aquí 🙌
+* *alexandre.iglesiasm@hotmail.com*
 
