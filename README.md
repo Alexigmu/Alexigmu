@@ -32,8 +32,8 @@ Este proyecto me está sirviendo para aprender a trabajar en un entorno real: in
 ## Cómo contactar
 
 * [Linkedin](www.linkedin.com/in/alexandre-iglesias-muñoz-648384127)
-* LinkedIn: *www.linkedin.com/in/alexandre-iglesias-muñoz-648384127*
-* Email: *alexandre.iglesiasm@hotmail.com)*
+
+* Email: *alexandre.iglesiasm@hotmail.com*
 
 Gracias por pasarte por aquí 🙌
 
