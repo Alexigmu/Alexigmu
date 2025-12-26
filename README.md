@@ -1,7 +1,7 @@
 # 👋 Hola, soy Alex
 
 Soy desarrollador junior en formación.
-Actualmente estoy terminando el Ciclo Superior en Desarrollo de Aplicaciones Web y enfocando mi carrera hacia el sector IT.
+Actualmente acabo de terminar el Ciclo Superior en Desarrollo de Aplicaciones Web y estoy enfocando mi carrera hacia el sector IT.
 
 ---
 
@@ -12,19 +12,22 @@ Actualmente estoy terminando el Ciclo Superior en Desarrollo de Aplicaciones Web
   * Ingesta de datos de películas desde una API externa.
   * Almacenamiento en **MongoDB**.
   * Exposición de la información a través de una **API REST en Node.js (Express)**.
+  * Interfaz visual y responsive mediante **HTML, CSS y JS**.
+  * Testing y pruebas funcionales con **Selenium**.
   * Entorno totalmente contenerizado con **Docker y docker-compose**.
 
-Este proyecto me está sirviendo para aprender a trabajar en un entorno real: integrar datos externos, estructurar endpoints, trabajar con persistencia y levantar varios servicios coordinados en local.
+Este proyecto me ha servido para aprender a trabajar en un entorno real: integrar datos externos, estructurar endpoints, trabajar con persistencia y levantar varios servicios coordinados en local.
 
 ---
 
 ##  Tecnologías
 
-* **Backend:** Node.js, Express, PHP
+* **Backend:** Node.js, Express, Python, PHP, Java
 * **Bases de datos:** MongoDB, MySQL
 * **Contenedores:** Docker, docker-compose
 * **Servicios web:** APIs REST, SOAP/WSDL en PHP
-* **Frontend:** JavaScript (DOM), SvelteKit
+* **Frontend:** HTML, CSS y JavaScript (DOM)
+* **Testing:** Selenium
 * **Control de versiones:** Git & GitHub
 
 ---
